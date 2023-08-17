@@ -34,6 +34,7 @@ Sentiment analysis involves determining the emotional tone of a text, whether it
 - **Accuracy Comparison**: We analyzed the accuracy of each approach on a dataset containing various sentiment-labeled texts.
 - **Speed Comparison**: Processing times for each approach were measured to assess their efficiency.
 - **Graphical Representations**: Utilized Seaborn and Matplotlib to create insightful visualizations.
+- **Data set**: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 - **Conclusion**: Summarized the findings and provided recommendations based on the comparative analysis.
 
 ## Results and Insights
